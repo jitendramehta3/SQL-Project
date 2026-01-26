@@ -38,7 +38,7 @@ select * from Customers;
 select * from Orders;
 
 
---Basic Questions(10)
+--Basic Questions(11)
 
 --01--Retrieve all books in the 'Fiction' genre:
 
@@ -97,7 +97,7 @@ select sum(total_amount) as total_revenue from Orders;
 
 
 
---ADVANCE QUESTIONS--
+--ADVANCE QUESTIONS--(9)
 
 select * from Books;
 select * from Customers;
