@@ -1,4 +1,4 @@
-## SQL PROJECT
+# SQL PROJECT
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-# Skills Used
+## Skills Used
 
 * SELECT
 * WHERE
@@ -16,7 +16,7 @@
 
 
 
-# What I Did
+## What I Did
 
 * Wrote queries for insights
 * Extracted insights from data based on the questions
