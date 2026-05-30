@@ -1,12 +1,12 @@
-SQL PROJECT
+## SQL PROJECT
 
 
 
-This project demonstrates my SQL skills using a sample dataset.
+* This project demonstrates my SQL skills using a sample dataset.
 
 
 
-\# Skills Used
+# Skills Used
 
 * SELECT
 * WHERE
@@ -16,7 +16,7 @@ This project demonstrates my SQL skills using a sample dataset.
 
 
 
-\# What I Did
+# What I Did
 
 * Wrote queries for insights
 * Extracted insights from data based on the questions
